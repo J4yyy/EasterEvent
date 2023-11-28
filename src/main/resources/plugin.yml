@@ -1,0 +1,14 @@
+name: EasterEvent
+version: '${project.version}'
+main: de.shandalar.easterevent.EasterEvent
+api-version: 1.19
+prefix: Easter-Event
+authors: [ Jayy ]
+description: Shandalar Easter Event Plugin
+website: shandalar.de
+commands:
+  easter:
+    description: Manage Easter Event
+  ostershop:
+    description: Ostern Event Shop
+    aliases: [os]
